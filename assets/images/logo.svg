@@ -1,0 +1,6 @@
+<svg width="250" height="60" viewBox="0 0 250 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="250" height="60" rx="10" fill="#F6F8FF"/>
+  <text x="25" y="40" font-family="Arial, sans-serif" font-size="36" font-weight="bold" fill="#0C1327">YOULEARN</text>
+  <path d="M220 10L240 30L220 50V10Z" fill="#0C1327"/>
+  <path d="M10 10L30 30L10 50V10Z" fill="#0C1327"/>
+</svg>
